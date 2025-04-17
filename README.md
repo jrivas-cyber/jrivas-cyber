@@ -5,7 +5,7 @@ I'm passionate about cybersecurity (especially PCI compliance) and love tackling
 
 ## ⚠️ Vulnerability Management
 
-- **[Vulnerability Management Program Implementation](https://github.com/jrivas-cyber/vulnerability-management-program)**
+- **[How to build a Vulnerability Management Program](https://github.com/jrivas-cyber/vulnerability-management-program)**
 - **[Programmatic Vulnerability Remediations (PowerShell and BASH)](https://github.com/joshcybertest/programmatic-vulnerability-remediations)**
 
 ## 🚨 Threat Hunting and Security Operations
