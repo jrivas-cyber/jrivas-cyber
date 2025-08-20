@@ -3,18 +3,18 @@
 I'm passionate about cybersecurity (especially PCI compliance) and love tackling complex challenges through hands-on projects. From vulnerability management to PCI compliance assessments, these projects allow me to dive deep into the ever-evolving landscape of cybersecurity. Feel free to check out the work I’ve put into enhancing security operations and processes.
 
 
-## ⚠️ Vulnerability Management
+## Vulnerability Management
 
 - **[How to build a Vulnerability Management Program](https://github.com/jrivas-cyber/vulnerability-management-program)**
 - **[Programmatic Vulnerability Remediations (PowerShell and BASH)](https://github.com/joshcybertest/programmatic-vulnerability-remediations)**
 
-## 🚨 Threat Hunting and Security Operations
+## Threat Hunting and Security Operations
 
 - **[Threat Hunting Scenario (Tor Browser Usage)](https://github.com/joshmadakor0/threat-hunting-scenario-tor)**
 
 <hr/>
 
-## 🤳 Connect With Me
+## Connect With Me
 
 [<img align="left" alt="___________ | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
