@@ -1,4 +1,4 @@
-# <a href="https://www.linkedin.com/in/jrivas-cyber/">Jose Rivas</a>' Cybersecurity Project Portfolio
+# <a href="https://www.linkedin.com/in/jrivas-cyber/">Jose Rivas</a>' Cybersecurity Portfolio
 
 I'm passionate about cybersecurity and enjoy tackling complex challenges through hands-on projects. From vulnerability management to leading compliance assessments, these projects allow me to keep up with the evolving security threats and improve my cyber skillset. Check out my work below!
 
