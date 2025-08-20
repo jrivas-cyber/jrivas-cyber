@@ -1,4 +1,4 @@
-# <a href="https://www.linkedin.com/in/jrivas-cyber/">Jose Rivas</a>' IT and Cybersecurity Project Portfolio
+# <a href="https://www.linkedin.com/in/jrivas-cyber/">Jose Rivas</a>' Cybersecurity Project Portfolio
 
 I'm passionate about cybersecurity (especially PCI compliance) and love tackling complex challenges through hands-on projects. From vulnerability management to PCI compliance assessments, these projects allow me to dive deep into the ever-evolving landscape of cybersecurity. Feel free to check out the work I’ve put into enhancing security operations and processes.
 
