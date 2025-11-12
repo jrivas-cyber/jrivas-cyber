@@ -1,6 +1,6 @@
 # My Cybersecurity Portfolio
 
-I'm passionate about cybersecurity and enjoy tackling complex challenges through hands-on projects. From vulnerability management to leading compliance assessments, these projects allow me to keep up with evolving security threats and improve my skillset. Check out my work below!
+I'm passionate about cybersecurity and enjoy tackling complex challenges through hands-on projects. From vulnerability management to leading PCI (Payment Card Industry) compliance assessments, these projects allow me to keep up with evolving security threats and improve my skillset. Check out my work below!
 
 
 ## Vulnerability Management
