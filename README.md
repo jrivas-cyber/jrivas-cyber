@@ -22,7 +22,7 @@ I'm passionate about cybersecurity and enjoy tackling complex challenges through
 
 ## Connect With Me
 
-[<img align="left" alt="___________ | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="___________ | LinkedIn" width="22px" src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" />][linkedin]
 
 [linkedin]: https://linkedin.com/in/jrivas-cyber/
 
