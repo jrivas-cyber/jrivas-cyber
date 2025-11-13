@@ -6,8 +6,8 @@ I'm passionate about cybersecurity and enjoy tackling complex challenges through
 ## PCI Compliance
 
 - Building a PCI program from scratch
-- How to keep track of PCI roles & responsibilities
-- Create your own PCI network & dataflow diagram
+- How to keep track of roles & responsibilities
+- Create your own network & dataflow diagram
 - PCI training for employees
 
 ## Vulnerability Management
