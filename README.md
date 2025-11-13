@@ -3,6 +3,12 @@
 I'm passionate about cybersecurity and enjoy tackling complex challenges through hands-on projects. From vulnerability management to leading PCI (Payment Card Industry) compliance assessments, these projects allow me to keep up with evolving security threats and improve my skillset. Check out my work below!
 
 
+## PCI Compliance
+
+- **[How to build a PCI program]
+- **[Delegating roles & responsibilities]
+- **[How to create a network & dataflow diagram]
+
 ## Vulnerability Management
 
 - **[How to build a Vulnerability Management Program](https://github.com/jrivas-cyber/vulnerability-management-program)**
