@@ -5,9 +5,9 @@ I'm passionate about cybersecurity and enjoy tackling complex challenges through
 
 ## PCI Compliance
 
-- **[How to build a PCI program]
-- **[Delegating roles & responsibilities]
-- **[How to create a network & dataflow diagram]
+- How to build a PCI program
+- Delegating roles & responsibilities
+- How to create a network & dataflow diagram
 
 ## Vulnerability Management
 
