@@ -5,9 +5,9 @@ I enjoy tackling complex challenges through hands-on projects. From **[PCI compl
 
 ## PCI Compliance
 
-- Building a PCI program from scratch
-- How to keep track of roles & responsibilities
-- Create your own network & dataflow diagram
+- Build a PCI program from scratch
+- How to manage roles & responsibilities
+- Developing robust scoping exercises
 - PCI training for employees
 
 ## Vulnerability Management
