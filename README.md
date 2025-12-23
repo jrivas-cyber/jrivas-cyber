@@ -5,9 +5,8 @@ I enjoy tackling complex challenges through hands-on projects. From **[PCI compl
 
 ## PCI Compliance
 
-- Build a PCI program from scratch
-- Managing roles & responsibilities
-- Scoping exercises for complex CDEs
+- How to properly scope your CDE
+- Idenifying and managing PCI roles & responsibilities
 - PCI training for employees
 - How to automate PCI ASV scans
 
