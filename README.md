@@ -8,7 +8,7 @@ I have 4 years of working experience in PCI compliance and Cybersecurity. During
 |-----------------------------------------------------------------|------------------------------|
 | Scoping your CDE                                                | <div align="center"><a href="https://github.com/jrivas-cyber/PCI-scoping-exercises">PCI Scoping Exercises</a></div> | 
 | Managing roles & responsibilities (RACI)                        | <div align="center"><a href="https://github.com/jrivas-cyber/PCI-roles-responsibilities">PCI Roles & Responsibilities</a></div>|
-| PCI security training for employees                              | <div align="center">PCI Security Training</a></div>|
+| PCI security training for employees                              | <div align="center"><a href="https://github.com/jrivas-cyber/PCI-security-training">PCI Security Training</a></div>|
 | Automate your PCI ASV scans                                     | <div align="center">PCI ASV Scans</a></div>|
 | Build a vulnerability management program                        | <div align="center"><a href="https://github.com/jrivas-cyber/vulnerability-management-program">Vulnerability Management Program</a></div>|
 | Threat Hunting (Tor Browser Usage)                              | <div align="center">Tor Browser Usage</a></div>|
