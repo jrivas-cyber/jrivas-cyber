@@ -2,7 +2,7 @@
 
 I enjoy tackling complex challenges through hands-on projects. From **[PCI compliance](https://www.pcisecuritystandards.org/)** to vulnerability management and threat hunting, these projects allow me to keep up with evolving security threats and improve my skillset. Check out my work below!
 
-##Skills
+## Skills
 | Skill                                                           | Realm                       | Associated project           |
 |-----------------------------------------------------------------|-----------------------------|------------------------------|
 
