@@ -1,6 +1,6 @@
 # Welcome to my portfolio!
 
-I have 4 years of working experience in PCI compliance and Cybersecurity. In my spare time, I enjoy tackling complex challenges through hands-on projects. From PCI compliance to vulnerability management and threat hunting, these projects allow me to keep up with evolving security threats and improve my skillset. Check out my work below!
+I have 4 years of working experience in PCI compliance and Cybersecurity. During my spare time, I enjoy tackling complex challenges through hands-on projects. From PCI compliance to vulnerability management and threat hunting, these projects allow me to keep up with evolving security threats and improve my skillset. Check out my work below!
 
 <hr/>
 
