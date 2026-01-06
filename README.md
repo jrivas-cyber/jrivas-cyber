@@ -3,13 +3,13 @@
 I enjoy tackling complex challenges through hands-on projects. From **[PCI compliance](https://www.pcisecuritystandards.org/)** to vulnerability management and threat hunting, these projects allow me to keep up with evolving security threats and improve my skillset. Check out my work below!
 
 ## Skills
-| Skill                                                           | Realm                       | Associated project           |
-|-----------------------------------------------------------------|-----------------------------|------------------------------|
-| Scoping your CDE                                                | PCI Compliance              |                              | 
-| Managing roles & responsibilities (RACI)                        | PCI Compliance              |                              |
-| Card Skimming Prevention Training                               | PCI Compliance              |                              |
-| Setting up your PCI ASV scan                                    | PCI Compliance              |                              |
-| Build a vulnerability management program                        | Vulnerability Management    | <a href="https://github.com/jrivas-cyber/vulnerability-management-program">Vulnerability Management Project</a>
+| Skill                                                           | Associated project           |
+|-----------------------------------------------------------------|------------------------------|
+| Scoping your CDE                                                |                              | 
+| Managing roles & responsibilities (RACI)                        |                              |
+| Card Skimming Prevention Training                               |                              |
+| Setting up your PCI ASV scan                                    |                              |
+| Build a vulnerability management program                        | <a href="https://github.com/jrivas-cyber/vulnerability-management-program">Vulnerability Management Project</a> |
 
 
 ## Vulnerability Management
