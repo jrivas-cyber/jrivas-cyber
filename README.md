@@ -4,7 +4,6 @@ I have 4 years of working experience in PCI compliance and Cybersecurity. During
 
 <hr/>
 
-## Skills
 | Skill                                                           | Associated project           |
 |-----------------------------------------------------------------|------------------------------|
 | Scoping your CDE                                                | <div align="center"><a href="https://github.com/jrivas-cyber/PCI-scoping-exercises">PCI Scoping Exercises</a></div> | 
