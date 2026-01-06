@@ -5,18 +5,16 @@ I enjoy tackling complex challenges through hands-on projects. From **[PCI compl
 ## Skills
 | Skill                                                           | Realm                       | Associated project           |
 |-----------------------------------------------------------------|-----------------------------|------------------------------|
+| Scoping your CDE                                                | PCI Compliance              |                              | 
+| Managing roles & responsibilities (RACI)                        | PCI Compliance              |                              |
+| Card Skimming Prevention Training                               | PCI Compliance              |                              |
+| Setting up your PCI ASV scan                                    | PCI Compliance              |                              |
+| Build a vulnerability management program                        | Vulnerability Management    | <a href="https://github.com/jrivas-cyber/vulnerability-management-program">Vulnerability Management Project</a>
 
-
-## PCI Compliance
-
-- How to properly scope your CDE
-- Idenifying and managing PCI roles & responsibilities
-- PCI training for employees
-- How to automate PCI ASV scans
 
 ## Vulnerability Management
 
-- **[How to build a Vulnerability Management Program](https://github.com/jrivas-cyber/vulnerability-management-program)**
+- **[How to build a Vulnerability Management Program]()**
 
 ## Threat Hunting and Security Operations
 
