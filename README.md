@@ -7,7 +7,7 @@ I have 4 years of working experience in PCI compliance and Cybersecurity. During
 | Skill                                                           | Associated project           |
 |-----------------------------------------------------------------|------------------------------|
 | Scoping your CDE                                                | <div align="center"><a href="https://github.com/jrivas-cyber/PCI-scoping-exercises">PCI Scoping Exercises</a></div> | 
-| Managing roles & responsibilities (RACI)                        | <div align="center">PCI Roles & Responsibilities</a></div>|
+| Managing roles & responsibilities (RACI)                        | <div align="center"><a href="https://github.com/jrivas-cyber/PCI-roles-responsibilities">PCI Roles & Responsibilities</a></div>|
 | Card skimming prevention training                               | <div align="center">PCI Card Skimming Prevention Training</a></div>|
 | Automate your PCI ASV scans                                     | <div align="center">PCI ASV Scans</a></div>|
 | Build a vulnerability management program                        | <div align="center"><a href="https://github.com/jrivas-cyber/vulnerability-management-program">Vulnerability Management Program</a></div>|
