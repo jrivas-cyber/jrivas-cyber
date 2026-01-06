@@ -7,7 +7,7 @@ I have 4 years of working experience in PCI compliance and Cybersecurity. During
 ## Skills
 | Skill                                                           | Associated project           |
 |-----------------------------------------------------------------|------------------------------|
-| Scoping your CDE                                                |                              | 
+| Scoping your CDE                                                | <a href="https://github.com/jrivas-cyber/PCI-scoping-exercises">PCI Scoping Exercises</a>| 
 | Managing roles & responsibilities (RACI)                        |                              |
 | Card skimming prevention training                               |                              |
 | Automate your PCI ASV scans                                     |                              |
