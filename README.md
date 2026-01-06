@@ -11,7 +11,7 @@ I have 4 years of working experience in PCI compliance and Cybersecurity. During
 | Managing roles & responsibilities (RACI)                        |                              |
 | Card skimming prevention training                               |                              |
 | Automate your PCI ASV scans                                     |                              |
-| Build a vulnerability management program                        | <a href="https://github.com/jrivas-cyber/vulnerability-management-program">Vulnerability Management Project</a> |
+| Build a vulnerability management program                        | <a href="https://github.com/jrivas-cyber/vulnerability-management-program">Vulnerability Management Program</a> |
 | Threat Hunting (Tor Browser Usage)                              |                              |
 
 ## Connect with Me:
