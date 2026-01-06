@@ -11,7 +11,7 @@ I have 4 years of working experience in PCI compliance and Cybersecurity. During
 | PCI security training for employees                              | <div align="center"><a href="https://github.com/jrivas-cyber/PCI-security-training">PCI Security Training</a></div>|
 | Automate your PCI ASV scans                                     | <div align="center"><a href="https://github.com/jrivas-cyber/PCI-ASV-scans/blob/main/README.md">PCI ASV Scans</a></div>|
 | Build a vulnerability management program                        | <div align="center"><a href="https://github.com/jrivas-cyber/vulnerability-management-program">Vulnerability Management Program</a></div>|
-| Threat Hunting (Tor Browser Usage)                              | <div align="center">Tor Browser Usage</a></div>|
+| Threat Hunting (Tor Browser Usage)                              | <div align="center"><a href="https://github.com/jrivas-cyber/Tor-browser-usage">Tor Browser Usage</a></div>|
 
 ## Connect with Me:
 [<img align="left" alt="___________ | LinkedIn" width="100px" src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" />][linkedin]
