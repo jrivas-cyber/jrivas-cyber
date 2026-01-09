@@ -15,8 +15,8 @@ I have 4+ years of working experience in PCI compliance and Cybersecurity. Durin
 | Build a vulnerability management program                        | <div align="center"><a href="https://github.com/jrivas-cyber/vulnerability-management-program">Vulnerability Management Program</a></div>|
 | Threat Hunting (Tor Browser Usage)                              | <div align="center"><a href="https://github.com/jrivas-cyber/Tor-browser-usage">Tor Browser Usage</a></div>|
 
-## <div align="left">Connect with Me:
-[<img align="left" alt="___________ | LinkedIn" width="100px" src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" />][linkedin]
+## <div align="left">Connect with Me
+[<img align="center" alt="___________ | LinkedIn" width="100px" src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" />][linkedin]
 
 [linkedin]: https://linkedin.com/in/jrivas-cyber/
 <!--
