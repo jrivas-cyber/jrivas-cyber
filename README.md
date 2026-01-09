@@ -6,7 +6,7 @@ I have 4+ years of working experience in PCI compliance and Cybersecurity. Durin
 
 <hr/>
 
-| #Skill                                                           | #Associated project           |
+| Skill                                                           | Associated project           |
 |-----------------------------------------------------------------|------------------------------|
 | Scoping your CDE                                                | <div align="center"><a href="https://github.com/jrivas-cyber/PCI-scoping-exercises">PCI Scoping Exercises</a></div> | 
 | Managing roles & responsibilities (RACI)                        | <div align="center"><a href="https://github.com/jrivas-cyber/PCI-roles-responsibilities">PCI Roles & Responsibilities</a></div>|
