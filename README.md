@@ -1,4 +1,4 @@
-<img width="1536" height="900" alt="ChatGPT Image Jan 9, 2026, 05_54_15 AM" src="https://github.com/user-attachments/assets/4bf54a76-ee28-4a6c-bf78-39501160f9c2" />
+<img width="1800" height="900" alt="ChatGPT Image Jan 9, 2026, 05_54_15 AM" src="https://github.com/user-attachments/assets/4bf54a76-ee28-4a6c-bf78-39501160f9c2" />
 
 # Welcome to my portfolio!
 
