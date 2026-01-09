@@ -1,5 +1,7 @@
 <div align="center"><img width="800" height="500" alt="ChatGPT Image Jan 9, 2026, 05_54_15 AM" src="https://github.com/user-attachments/assets/4bf54a76-ee28-4a6c-bf78-39501160f9c2" />
 
+# <div align="center">Welcome to my portfolio!
+
 I have 4+ years of working experience in PCI compliance and Cybersecurity. During my spare time, I enjoy tackling complex challenges through hands-on projects. From PCI compliance to vulnerability management and threat hunting, these projects allow me to keep up with evolving security threats and improve my skillset. Check out my work below!
 
 <hr/>
